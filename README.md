@@ -1,1 +1,1 @@
-# Stop-Watch-Atmega16
+# Stop-Watch-Atmega32
